@@ -28,6 +28,8 @@
 ![maheshmm7's Stats](https://github-readme-stats.vercel.app/api?username=maheshmm7&theme=radical&show_icons=true&hide_border=false&count_private=true) 
 ![maheshmm7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmm7&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+![Visitor Count](https://profile-counter.glitch.me/maheshmm7/count.svg)
+
 
 
 
