@@ -29,8 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=girishchowdary0208&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=girishchowdary0208&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" />
 </p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/GirishChowdary0208/count.svg" />
-</p>
