@@ -1,4 +1,7 @@
 <h1 align="center">Greetings, I'm RANGALA MAHESH</h1>
+
+
+
 <h3 align="center">I am Rangala Mahesh, an enthusiastic and versatile individual deeply passionate about the realm of technology and its endless possibilities.</h3>
 
 - 🔭 I’m currently Pursing **BTech in Computer Science and Engineering**
@@ -28,7 +31,6 @@
 ![maheshmm7's Stats](https://github-readme-stats.vercel.app/api?username=maheshmm7&theme=radical&show_icons=true&hide_border=false&count_private=true) 
 ![maheshmm7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmm7&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![Visitor Count](https://profile-counter.glitch.me/maheshmm7/count.svg)
 
 
 
