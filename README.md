@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, other Programming Languages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maheshmm7](https://github.com/maheshmm7)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/maheshmm7) & [Kaggle](https://www.kaggle.com/rangalamahesh)
 
 - 📫 How to reach me **maheshrangala7@gmail.com**
 
