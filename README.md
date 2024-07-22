@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **maheshrangala7@gmail.com**
 
-- 📄 Know about my experiences [https://coffee-madalyn-25.tiiny.site]([https://coffee-madalyn-25.tiiny.site])
+- 📄 Know about my experiences [https://coffee-madalyn-25.tiiny.site](https://coffee-madalyn-25.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
